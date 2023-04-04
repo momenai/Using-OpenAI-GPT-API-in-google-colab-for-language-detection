@@ -1,1 +1,3 @@
 # Using-OpenAI-GPT-API-in-google-colab-for-language-detection
+This Colab Notebook provides an implementation of a function, detect_language_text, which uses the OpenAI GPT API to detect the language of a given text. The function takes in a text string as input and returns the name of the language that the text is written in. This notebook can be useful for anyone who needs to programmatically detect the language of a given text, especially when dealing with multilingual data. You will need a key use use ChatGpt:
+[Click here for get openai.api_key  ](https://platform.openai.com/account/api-keys)
